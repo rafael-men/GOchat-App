@@ -1,0 +1,21 @@
+* {
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body {
+    color: #eee;
+    font-family: 'Roboto',sans-serif;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+.app {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    max-width: 600px;
+    background-image: url(https://img.freepik.com/vetores-gratis/fundo-gradiente-preto-com-linhas-onduladas_23-2149157312.jpg);
+    border-left: 1px solid #eee;
+    border-right: 1px solid #eee;
+}
