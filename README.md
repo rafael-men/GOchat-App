@@ -28,7 +28,7 @@ Após a conclusão da instalação, você pode iniciar o aplicativo localmente u
 
 node server.js
 
-Isso iniciará o servidor do aplicativo. Navegando para http://localhost:3001.
+Isso iniciará o servidor do aplicativo. Navegando para http://localhost:5000.
 
 
 Personalização
