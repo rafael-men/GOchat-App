@@ -10,25 +10,47 @@ npm
 
 Instalação
 
+<hr>
+
 1.Clone este repositório em sua máquina local:
+
+<hr>
 
 git clone https://github.com/seu-usuario/chat-online-nodejs.git
 
+<hr>
+
 2.Navegue até o diretório do projeto:
+
+<hr>
 
 cd  GOchat-App
 
+<hr>
+
 3.Instale as dependências do projeto executando o comando:
+
+<hr>
 
 npm install
 
+<hr>
+
 4.Executando o Aplicativo
+
+<hr>
 
 Após a conclusão da instalação, você pode iniciar o aplicativo localmente usando o seguinte comando:
 
+<hr>
+
 node server.js
 
+<hr>
+
 Isso iniciará o servidor do aplicativo. Navegando para http://localhost:5000.
+
+<hr>
 
 
 Personalização
